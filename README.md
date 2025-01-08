@@ -49,3 +49,4 @@ Usage
 
 Troubleshooting
 	•	If you encounter a Module javafx.controls not found error, make sure you have the correct JavaFX version installed and set the module path correctly in your environment.
+If anyone is interested in contributing and enhancing the user interface, I would welcome their collaboration.
